@@ -12,7 +12,8 @@ MINMEM=1024
 STACKSIZE=32
 #DATA_DIRECTORY=
 # Set this to force MapTool to use a particular directory for all file storage.
-MAPTOOL_DATADIR=C:\Users\Binky\.maptool
+#MAPTOOL_DATADIR=C:\Users\Binky\.maptool
+MAPTOOL_DATADIR=.maptool
 # Directory where the MapTool .jar file is stored.  (Also see EXECUTABLE.)
 MAPTOOL_DIRECTORY=.
 # Version of MapTool this configuration file is for; must exist in the MAPTOOL_DIRECTORY directory.
